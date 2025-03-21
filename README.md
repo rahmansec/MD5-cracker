@@ -1,4 +1,4 @@
-```markdown
+
 # MD5 Hash Cracker
 
 A command-line tool to crack MD5 hashes using the [nitrxgen API](https://www.nitrxgen.net/md5db/). This project lets you either crack a single hash or a batch of hashes from a file, with support for custom output file names for both cracked and uncracked hashes.
